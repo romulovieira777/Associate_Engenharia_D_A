@@ -1,0 +1,5 @@
+JSON CSV
+https://learn.microsoft.com/pt-br/sharepointmigration/how-to-format-your-csv-file-for-data-content-migration
+
+Parquet, Avro e ORC
+https://databricks.com/blog/2020/04/21/which-file-format-parquet-avro-orc.html

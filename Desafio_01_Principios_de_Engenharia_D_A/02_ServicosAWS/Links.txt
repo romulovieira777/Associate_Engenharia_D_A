@@ -1,0 +1,17 @@
+Amazon Web Services (S3)
+https://aws.amazon.com/pt/s3/
+
+Amazon Web Services (Glue)
+https://aws.amazon.com/pt/glue/
+
+Amazon Web Services (Athena)
+https://aws.amazon.com/pt/athena/
+
+Amazon Web Services (Lambda)
+https://aws.amazon.com/pt/lambda/
+
+Amazon Web Services (Step Functions)
+https://aws.amazon.com/pt/step-functions/
+
+Amazon Web Services (EventBridge)
+https://aws.amazon.com/pt/eventbridge/
