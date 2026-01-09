@@ -1,0 +1,29 @@
+Spark
+https://spark.apache.org/
+
+Spark Arquitetura
+https://panini.hashnode.dev/arquitetura-e-composicao-de-uma-aplicacao-spark
+
+Spark DataFrames e Transformações
+https://spark.apache.org/docs/latest/sql-data-sources-load-save-functions.html
+
+Spark Pushdown Predicates
+https://spark.apache.org/docs/latest/sql-performance-tuning.html#pushdown-predicates
+
+Spark Catalyst Optimizer
+https://databricks.com/glossary/catalyst-optimizer
+
+Spark Joins
+https://spark.apache.org/docs/latest/sql-performance-tuning.html#joins
+
+Spark Repartition e Coalesce
+https://sparkbyexamples.com/pyspark/pyspark-repartition-usage/
+
+Spark Shuffle e Spills
+https://spark.apache.org/docs/latest/tuning.html#shuffle-and-spill
+
+Spark Otimizando Jobs Configs
+https://spark.apache.org/docs/latest/tuning.html#configurations-for-optimizing-spark-jobs
+
+Spark Monitorando Jobs via UI
+https://spark.apache.org/docs/latest/monitoring.html#viewing-the-spark-ui
