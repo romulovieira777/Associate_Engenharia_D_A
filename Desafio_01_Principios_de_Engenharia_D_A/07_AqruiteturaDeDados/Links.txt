@@ -1,0 +1,5 @@
+lambda vc. Kappa Architecture
+https://nexocode.com/blog/posts/lambda-vs-kappa-architecture/
+
+Medallion Architecture
+https://medium.com/@junshan0/medallion-architecture-what-why-and-how-ce07421ef06f

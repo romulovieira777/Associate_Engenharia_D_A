@@ -1,0 +1,8 @@
+GitHub Versionamento
+https://docs.github.com/pt/repositories/releasing-projects-on-github/managing-releases-in-a-repository
+
+CI/CD
+https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd-pipeline
+
+Testes
+https://www.guru99.com/introduction-to-software-testing.html
