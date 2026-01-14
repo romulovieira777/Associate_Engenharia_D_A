@@ -6,3 +6,7 @@ https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd-pipeline
 
 Testes
 https://www.guru99.com/introduction-to-software-testing.html
+
+Documentação
+https://www.writethedocs.org/guide/writing/beginners-guide-to-documentation/
+

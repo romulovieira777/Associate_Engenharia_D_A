@@ -1,0 +1,16 @@
+Fundamentos
+https://www.datadoghq.com/blog/observability-101/
+https://www.redhat.com/en/topics/observability/what-is-observability
+https://www.lightstep.com/blog/what-is-observability
+https://www.newrelic.com/what-is/observability
+https://grafana.com/docs/grafana/latest/getting-started/what-is-grafana/
+
+Monitoramento
+https://prometheus.io/docs/introduction/overview/
+https://grafana.com/docs/grafana/latest/getting-started/what-is-grafana/
+https://www.datadoghq.com/blog/monitoring-vs-observability/
+
+Amazon Web Services (AWS) CloudWatch
+https://aws.amazon.com/cloudwatch/
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch
+
