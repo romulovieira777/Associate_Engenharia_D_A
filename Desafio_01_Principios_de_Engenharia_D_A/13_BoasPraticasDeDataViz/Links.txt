@@ -1,0 +1,8 @@
+Escolha de gráfico
+https://www.atlassian.com/data/charts/how-to-choose-data-visualization
+
+Design
+https://uxmag.medium.com/the-ultimate-data-visualization-handbook-for-designers-efa7d6e0b6fe
+
+Ferramentas de Data Viz
+https://www.datageeks.com.br/data-visualization/
