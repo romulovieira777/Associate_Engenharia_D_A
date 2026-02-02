@@ -1,0 +1,10 @@
+01. Principais Ferramentas
+    01. Atlan          -> https://atlan.com/
+    02. Athena         -> https://aws.amazon.com/athena/
+    03. Glue           -> https://aws.amazon.com/glue/
+    04. Step Functions -> https://aws.amazon.com/step-functions/
+    05. Events Bridge  -> https://aws.amazon.com/events/
+    06. Quicksight     -> https://aws.amazon.com/quicksight/
+    07. SageMaker      -> https://aws.amazon.com/sagemaker/
+ 02. Criação da Conta Consumer
+    01. Acessar o link -> https://aws.amazon.com/marketplace/pp/prodview-gnb5zzn3j4ezy
