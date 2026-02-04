@@ -1,0 +1,25 @@
+1. Você sabe quando vai rodar suas consultas?
+Se você tem tarefas que rodam sempre nos mesmos horários — como relatórios diários, dashboards ou rotinas de dados — o
+Athena provisionado é ótimo. Ele garante que os recursos estarão disponíveis exatamente quando você precisar.
+
+2. Precisa de velocidade e estabilidade?
+Com o Athena provisionado, você evita filas e lentidão. Isso é útil quando o tempo de resposta precisa ser rápido e
+confiável, como em análises críticas para o negócio.
+
+3. Está lidando com muitos dados ou consultas pesadas?
+Se suas consultas são complexas ou envolvem grandes volumes de dados, o provisionado ajuda a manter a performance, mesmo
+com muita coisa rodando ao mesmo tempo.
+
+4. Quer ter controle sobre os custos?
+Diferente do modelo tradicional (que cobra por volume de dados lido), o provisionado cobra pelo tempo de uso. Isso ajuda
+a prever melhor os gastos, principalmente em ambientes com muitos usuários.
+
+5. Tem compromissos com prazos ou SLAs?
+Se você precisa garantir que algo vai rodar sem atrasos (por exemplo, entregas para outras áreas ou clientes), o
+provisionado dá essa segurança.
+
+IMPORTANTE
+Se for ativar a Capacidade Provisionada direto no Athena, sempre colocar um lembrete para encerra-la manualmente! o
+Athena Provisionado não gera alertas de ociosidade ou desativação automática. Após concluir suas atividades, você deve
+manualmente encerrar o ambiente provisionado para evitar custos adicionais, já que os custos são calculados com base no
+tempo de execução e na capacidade de CPU utilizada.

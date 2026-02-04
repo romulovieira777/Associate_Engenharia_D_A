@@ -1,0 +1,14 @@
+AWS Athena
+https://aws.amazon.com/pt/athena/
+
+AWS Glue
+https://aws.amazon.com/pt/glue/
+
+AWS Step Functions
+https://aws.amazon.com/pt/step-functions/
+
+AWS EventBridge
+https://aws.amazon.com/pt/eventbridge/
+
+AWS Quicksight
+https://aws.amazon.com/pt/quicksight/

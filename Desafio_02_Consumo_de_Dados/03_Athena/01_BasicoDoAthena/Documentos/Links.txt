@@ -1,0 +1,17 @@
+AWS Athena
+https://www.youtube.com/watch?v=npe9RcSTIzI
+
+AWS Step Functions
+https://aws.amazon.com/pt/step-functions/
+
+AWS EventBridge
+https://aws.amazon.com/pt/eventbridge/
+
+AWS Athena
+https://aws.amazon.com/pt/athena/
+
+Configuração E Automatizar AReserva De Capacidade
+https://aws.amazon.com/pt/blogs/aws/introducing-athena-provisioned-capacity/
+
+Quantos DPUs usar na minha Reserva de
+https://docs.aws.amazon.com/pt_br/athena/latest/ug/capacity-management-requirements.html#capacity-management-requirements-estimating
