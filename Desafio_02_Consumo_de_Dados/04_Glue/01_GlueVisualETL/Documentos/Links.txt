@@ -1,0 +1,8 @@
+AWS Athena
+https://aws.amazon.com/pt/athena/
+
+AWS S3
+https://aws.amazon.com/pt/s3/
+
+AWS Glue
+https://aws.amazon.com/pt/glue/
