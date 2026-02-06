@@ -6,3 +6,9 @@ https://aws.amazon.com/pt/s3/
 
 AWS Glue
 https://aws.amazon.com/pt/glue/
+
+AWS Glue Notebooks
+https://docs.aws.amazon.com/glue/latest/dg/using-notebooks-overview.html
+
+AWS Glue DataBrew
+https://aws.amazon.com/pt/databrew/
